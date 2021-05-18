@@ -1,7 +1,7 @@
-import React, { Fragment } from "react";
+import React from "react";
 
 const App = () => {
-  return <Fragment>Hello World!</Fragment>;
+  return <>Hello World!</>;
 };
 
 export default App;
