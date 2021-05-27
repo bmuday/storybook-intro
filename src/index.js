@@ -9,5 +9,3 @@ ReactDOM.render(
   </>,
   document.querySelector("#root")
 );
-
-// npm install node-sass classnames styled-components
